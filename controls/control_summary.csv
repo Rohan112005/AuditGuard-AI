@@ -1,0 +1,10 @@
+control_id,control_name,violation_count
+C05,Inactive User Activity,4613
+C02,Unauthorized Approval,4192
+C03,Self Approval / SoD,2471
+C01,Missing Approval,2466
+C06,Privilege Violation,2013
+C07,Unusual Amount,1303
+C09,Unusual Location,1233
+C08,After-Hours Activity,1145
+C04,Duplicate Transaction,1010

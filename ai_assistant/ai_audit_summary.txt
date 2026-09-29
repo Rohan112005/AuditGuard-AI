@@ -1,0 +1,30 @@
+EXECUTIVE SUMMARY - AuditGuard AI Automated Analysis
+Generated: 2026-09-29 11:11
+
+The platform processed 120,400 enterprise transactions. Control testing and hybrid anomaly detection identified 25,497 transactions requiring further review.
+
+Of these, 4,021 were scored Critical and 5,986 High under the project risk model. Priority should be given to Critical and High items.
+
+Most frequent control gaps observed (verified counts):
+  - Inactive User Activity: 4,613 instances
+  - Unauthorized Approval: 4,192 instances
+  - Self Approval / SoD: 2,471 instances
+  - Missing Approval: 2,466 instances
+  - Privilege Violation: 2,013 instances
+
+Departments with highest concentration of findings:
+  - Procurement: 2,675 findings
+  - Sales: 2,514 findings
+  - R&D: 2,265 findings
+
+Recommended review areas: (1) Payment and high-value approval workflows, (2) Segregation-of-duties enforcement for Payment transactions, (3) Access of inactive users, (4) Privilege alignment for large Asset/Vendor payments, (5) Transactions originating from unusual locations.
+
+Note: All statements above are derived exclusively from verified control-test results and anomaly scores stored in the project database. No unverified claims have been introduced.
+
+DETAILED PATTERN ANALYSIS (Evidence-Based)
+
+High-value transactions lacking approval: 1,341 (total value approx. 51,903,675). Further review of the approval workflow for these items is recommended.
+
+Segregation-of-duties / self-approval cases: 2,471. Same employee both initiated and approved the transaction.
+
+Critical-risk sample size: 4,021. These combine multiple control failures and/or strong anomaly signals.

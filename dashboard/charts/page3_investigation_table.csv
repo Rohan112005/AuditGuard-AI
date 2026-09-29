@@ -1,0 +1,201 @@
+transaction_id,employee_id,amount,issue_summary,risk_score,risk_level,control_violated,investigation_status
+TXN0119509,EMP00421,137325.96,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0119507,EMP00218,202256.1,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0118861,EMP00455,78167.19,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0118235,EMP00618,2573.76,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0118070,EMP00353,18272.56,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0117760,EMP00218,69298.03,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0117042,EMP00457,38322.33,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0117040,EMP00618,1408.11,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0116005,EMP00618,2341.49,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0115609,EMP00064,1640.02,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0115249,EMP00618,1187.3,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0115080,EMP00113,1030.0,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0114154,EMP00419,107921.27,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0114009,EMP00033,1660.46,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0113843,EMP00618,52586.06,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0111966,EMP00421,2043.52,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0111756,EMP00482,215806.69,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0111598,EMP00384,67705.52,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0111527,EMP00764,214796.71,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0111425,EMP00425,93387.52,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0111351,EMP00653,24812.06,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0111278,EMP00536,76237.28,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0111148,EMP00765,70817.8,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0111035,EMP00218,25120.48,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0110345,EMP00510,123359.54,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0110254,EMP00313,3257.32,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0109993,EMP00064,1256.07,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0107813,EMP00540,53491.79,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0107356,EMP00625,1129.66,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0107171,EMP00160,3664.83,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0107067,EMP00732,111893.15,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0106170,EMP00273,194824.27,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0105809,EMP00281,109299.09,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0105672,EMP00743,1047.09,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0105257,EMP00765,2388.16,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0104639,EMP00313,65596.74,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0104158,EMP00064,2059.14,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0103724,EMP00649,62375.94,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0103635,EMP00653,12846.65,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0102657,EMP00030,77020.88,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0102539,EMP00688,79855.11,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0101030,EMP00357,50966.59,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0100931,EMP00478,224747.46,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0099469,EMP00765,60530.29,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0099373,EMP00421,69666.41,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0099268,EMP00488,56965.96,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0098943,EMP00313,43256.99,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0098634,EMP00425,63080.05,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0097954,EMP00775,21374.0,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0097314,EMP00788,231185.93,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0096053,EMP00033,226830.88,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0095959,EMP00404,114889.0,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0095872,EMP00113,114124.54,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0095702,EMP00353,1829.34,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0095414,EMP00743,1027.41,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0095362,EMP00653,1738.55,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0094989,EMP00606,61518.27,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0094586,EMP00147,94424.72,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0094509,EMP00469,120852.28,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0093295,EMP00160,76460.14,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0092875,EMP00591,71954.04,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0092143,EMP00009,95572.98,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0092092,EMP00538,89886.04,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0090720,EMP00366,57350.05,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0090442,EMP00417,79814.39,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0090165,EMP00421,1346.8,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0090086,EMP00317,60238.91,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0089654,EMP00295,64405.15,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0089533,EMP00113,155951.71,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0089499,EMP00518,57947.53,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0088535,EMP00765,133171.4,Inactive User Activity; Missing Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Missing Approval; Unusual Amount,Open
+TXN0088415,EMP00657,74425.87,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0088294,EMP00275,1484.31,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0087937,EMP00359,164397.68,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0087673,EMP00392,219377.85,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0086597,EMP00625,1786.19,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0086395,EMP00743,16045.98,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0086058,EMP00243,1155.45,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0085767,EMP00251,23419.23,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0085348,EMP00775,2105.4,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0084115,EMP00128,102685.28,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0083791,EMP00024,63886.43,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0083581,EMP00653,72517.73,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0081731,EMP00358,142787.56,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0081400,EMP00064,61303.2,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0079378,EMP00353,40226.21,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0079180,EMP00682,30871.74,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0078637,EMP00693,104380.34,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0078211,EMP00459,59554.06,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0078035,EMP00210,62058.28,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0077973,EMP00033,1486.81,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0077770,EMP00232,56494.89,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0077753,EMP00281,73340.75,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0077567,EMP00421,43523.56,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0077180,EMP00421,1715.49,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0077161,EMP00370,96401.55,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0075197,EMP00251,1021.9,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0075161,EMP00453,54372.17,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0074649,EMP00701,247463.58,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0073900,EMP00736,44510.76,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0073474,EMP00518,61888.9,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0073306,EMP00637,77823.37,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0072564,EMP00033,29687.05,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0071823,EMP00351,71885.29,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0070052,EMP00421,67703.72,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0069605,EMP00743,65778.15,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0069364,EMP00625,1142.98,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0069145,EMP00064,29726.37,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0068704,EMP00618,1342.21,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0068529,EMP00293,56768.72,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0067762,EMP00275,11635.89,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0066360,EMP00160,125633.76,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0065689,EMP00101,124334.46,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0062248,EMP00583,76642.17,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0060387,EMP00694,54153.49,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0060300,EMP00609,62914.93,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0059262,EMP00281,114515.58,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0057405,EMP00653,9423.45,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0057175,EMP00775,2389.94,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0057141,EMP00421,175343.63,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0057135,EMP00417,17670.92,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0056818,EMP00743,1362.44,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0056558,EMP00497,71741.78,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0056509,EMP00587,56603.73,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0056247,EMP00670,64586.7,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0055729,EMP00243,1575.98,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0055719,EMP00113,73512.38,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0055364,EMP00086,60078.5,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0054864,EMP00489,79581.95,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0054560,EMP00313,22062.39,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0054318,EMP00682,1534.35,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0053487,EMP00113,103123.58,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0053362,EMP00353,69997.38,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0053324,EMP00564,66930.84,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0053035,EMP00281,1429.75,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0053031,EMP00156,172245.69,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0052566,EMP00243,18421.86,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0051579,EMP00743,21095.57,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0051365,EMP00113,153042.82,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0050976,EMP00404,56986.3,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0050963,EMP00653,30613.02,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0050887,EMP00653,1214.31,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0050456,EMP00618,11145.63,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0050213,EMP00703,126577.3,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0049572,EMP00736,1423.47,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0048872,EMP00218,76222.87,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0048847,EMP00625,3670.57,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0048738,EMP00401,61236.18,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0047328,EMP00618,1824.37,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0046150,EMP00113,140967.29,Inactive User Activity; Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0046002,EMP00736,1921.88,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0045741,EMP00362,211469.33,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0045653,EMP00033,66588.26,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0045643,EMP00218,235639.96,Inactive User Activity; Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0045413,EMP00796,183044.91,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0044349,EMP00775,1566.25,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0044335,EMP00384,59892.49,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0044014,EMP00586,76542.33,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0043443,EMP00353,4075.23,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0040738,EMP00735,57906.05,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0040045,EMP00743,191401.57,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0039292,EMP00561,134503.78,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0038864,EMP00313,1498.1,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0038594,EMP00570,72207.21,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0038515,EMP00160,14827.88,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0037696,EMP00275,37681.66,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0037430,EMP00275,71146.08,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0036872,EMP00113,108421.39,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0036819,EMP00736,1084.11,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0036416,EMP00682,71585.49,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0035643,EMP00769,75055.79,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0035430,EMP00556,65725.13,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0034555,EMP00160,22204.38,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0033621,EMP00159,133997.84,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0032506,EMP00616,157096.27,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0030949,EMP00142,151325.66,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0030584,EMP00537,246792.51,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0029871,EMP00736,189639.33,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0029822,EMP00501,69284.37,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0029304,EMP00540,59323.15,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0028136,EMP00509,177569.45,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0027881,EMP00653,56608.1,Inactive User Activity; Privilege Violation,100.0,Critical,Inactive User Activity; Privilege Violation,Open
+TXN0027723,EMP00033,150634.83,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval; Unusual Amount,Open
+TXN0027525,EMP00445,64369.0,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0027307,EMP00490,96931.05,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0026971,EMP00653,43938.7,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0026771,EMP00682,231812.32,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0025546,EMP00297,160037.52,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0024619,EMP00313,1186.86,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0024452,EMP00275,18149.99,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0024368,EMP00275,77415.9,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open
+TXN0024350,EMP00003,72709.37,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0023640,EMP00417,61330.29,Inactive User Activity; Privilege Violation; Unauthorized Approval,100.0,Critical,Inactive User Activity; Privilege Violation; Unauthorized Approval,Open
+TXN0023513,EMP00276,73510.68,Missing Approval; Privilege Violation,100.0,Critical,Missing Approval; Privilege Violation,Open
+TXN0023457,EMP00035,120459.72,Missing Approval; Privilege Violation; Unusual Amount,100.0,Critical,Missing Approval; Privilege Violation; Unusual Amount,Open
+TXN0023051,EMP00281,26253.19,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0022686,EMP00113,36285.92,Inactive User Activity; Missing Approval; Privilege Violation,100.0,Critical,Inactive User Activity; Missing Approval; Privilege Violation,Open
+TXN0022682,EMP00653,30091.89,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0022469,EMP00218,1035.56,Inactive User Activity; Missing Approval,100.0,Critical,Inactive User Activity; Missing Approval,Open
+TXN0022076,EMP00064,166333.45,Inactive User Activity; Privilege Violation; Unusual Amount,100.0,Critical,Inactive User Activity; Privilege Violation; Unusual Amount,Open

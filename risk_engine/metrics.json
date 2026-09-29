@@ -1,0 +1,10 @@
+{
+  "total_transactions": 120400,
+  "transactions_with_control_violations": 17581,
+  "transactions_with_anomaly": 17918,
+  "findings_written": 25497,
+  "critical": 4021,
+  "high": 5986,
+  "medium": 7574,
+  "low": 102819
+}

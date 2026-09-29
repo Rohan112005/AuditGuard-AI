@@ -1,0 +1,10 @@
+AuditGuard AI - Data Validation Report
+Generated: 2026-09-29T11:11:00.574548
+
+total_rows: 120400
+null_amounts: 0
+duplicate_tx_ids: 0
+negative_or_zero_amount: 0
+future_timestamps: 0
+unique_employees: 800
+date_range: ('2024-01-01 02:37:00', '2025-03-26 22:18:00')
